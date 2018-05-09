@@ -9,7 +9,7 @@ A complete, dark and minimalistic Monokai-inspired theme.
 Features:
 - **Complete**: Every single themeable component has been customized.
 - **Dark**: Darker than the default Monokai theme, only grayscale colors and accent colors are used.
-- **Minimalistic**: Unnecessary borders have been removed, everything is well separated, it won't ditract you.
+- **Minimalistic**: Unnecessary borders have been removed, everything is well separated, it won't distract you.
 
 ## Install
 
