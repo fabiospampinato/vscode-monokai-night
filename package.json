@@ -1,0 +1,44 @@
+{
+  "name": "vscode-monokai-night",
+  "displayName": "Monokai Night Theme",
+  "description": "A complete, dark and minimalistic Monokai-inspired theme.",
+  "icon": "resources/logo/logo-128x128.png",
+  "version": "1.0.0",
+  "license": "MIT",
+  "publisher": "fabiospampinato",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Monokai Night",
+        "uiTheme": "vs-dark",
+        "path": "./themes/default.json"
+      }
+    ]
+  },
+  "bugs": {
+    "url": "https://github.com/fabiospampinato/vscode-monokai-night/issues"
+  },
+  "author": {
+    "name": "Fabio Spampinato",
+    "email": "spampinabio@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fabiospampinato/vscode-monokai-night.git"
+  },
+  "engines": {
+    "vscode": "^1.21.0"
+  },
+  "keywords": [
+    "theme",
+    "monokai",
+    "night",
+    "dark",
+    "minimalistic",
+    "clean",
+    "vscode"
+  ],
+  "categories": [
+    "Themes"
+  ]
+}
