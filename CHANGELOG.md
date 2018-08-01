@@ -1,3 +1,6 @@
+### Version 1.1.2
+- Updated line/range highlight colors
+
 ### Version 1.1.1
 - Updated logo
 
