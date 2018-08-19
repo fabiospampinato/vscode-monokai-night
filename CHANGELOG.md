@@ -1,3 +1,8 @@
+### Version 1.2.0
+- Customized the breadcrumb
+- Customized the settings
+- Customized menu and menubar
+
 ### Version 1.1.2
 - Updated line/range highlight colors
 
