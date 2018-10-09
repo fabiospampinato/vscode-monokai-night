@@ -1,3 +1,6 @@
+### Version 1.3.0
+- Customized new colors
+
 ### Version 1.2.0
 - Customized the breadcrumb
 - Customized the settings
