@@ -1,3 +1,6 @@
+### Version 1.3.1
+- Updated `activityBar.inactiveForeground`
+
 ### Version 1.3.0
 - Customized new colors
 
