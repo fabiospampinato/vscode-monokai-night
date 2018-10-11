@@ -203,7 +203,7 @@
     "activityBar.foreground": "#dddddd",
     "activityBar.border": "#000000",
     "activityBar.dropBackground": "#262626",
-    "activityBar.inactiveForeground": "#777777",
+    "activityBar.inactiveForeground": "#888888",
     "activityBarBadge.background": "#007acc",
     "activityBarBadge.foreground": "#dddddd",
     "sideBar.background": "#161616",
