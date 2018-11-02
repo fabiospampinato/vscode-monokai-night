@@ -1,3 +1,6 @@
+### Version 1.3.2
+- Using "Debug Launcher" for debugging
+
 ### Version 1.3.1
 - Updated `activityBar.inactiveForeground`
 
