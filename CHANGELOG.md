@@ -1,3 +1,6 @@
+### Version 1.3.3
+- Readme: using hi-res logo
+
 ### Version 1.3.2
 - Using "Debug Launcher" for debugging
 
