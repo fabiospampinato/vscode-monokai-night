@@ -1,3 +1,6 @@
+### Version 1.3.4
+- Customized new colors
+
 ### Version 1.3.3
 - Readme: using hi-res logo
 
