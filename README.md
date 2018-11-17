@@ -1,7 +1,7 @@
 # Monokai Night
 
 <p align="center">
-	<img src="https://raw.githubusercontent.com/fabiospampinato/vscode-monokai-night/master/resources/logo/logo.png" width="128" alt="Logo">
+  <img src="https://raw.githubusercontent.com/fabiospampinato/vscode-monokai-night/master/resources/logo/logo.png" width="128" alt="Logo">
 </p>
 
 A complete, dark and minimalistic Monokai-inspired theme.
