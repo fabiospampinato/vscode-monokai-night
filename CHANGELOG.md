@@ -1,3 +1,6 @@
+### Version 1.3.5
+- Updated stack frame-related colors
+
 ### Version 1.3.4
 - Customized new colors
 
