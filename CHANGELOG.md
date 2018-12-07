@@ -1,3 +1,7 @@
+### Version 1.4.0
+- Properties sorted alphabetically
+- Customized some extra colors
+
 ### Version 1.3.5
 - Updated stack frame-related colors
 
