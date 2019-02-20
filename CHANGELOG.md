@@ -1,3 +1,6 @@
+### Version 1.4.1
+- Readme: added a “Related Themes” section
+
 ### Version 1.4.0
 - Properties sorted alphabetically
 - Customized some extra colors

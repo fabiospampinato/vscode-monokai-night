@@ -3,7 +3,7 @@
   "displayName": "Monokai Night Theme",
   "description": "A complete, dark and minimalistic Monokai-inspired theme.",
   "icon": "resources/logo/logo-128x128.png",
-  "version": "1.4.0",
+  "version": "1.4.1",
   "license": "MIT",
   "publisher": "fabiospampinato",
   "contributes": {
