@@ -35,6 +35,18 @@ If you found a problem, or have a feature request, please open an [issue](https:
 
 If you want to make a pull request you can debug the extension using [Debug Launcher](https://marketplace.visualstudio.com/items?itemName=fabiospampinato.vscode-debug-launcher).
 
+## Other themes
+
+This theme can also be used with:
+
+- [Vim](https://github.com/nikitavoloboev/vim-monokai-night#readme)
+- [iTerm](https://github.com/nikitavoloboev/my-mac-os/tree/master/iterm#readme)
+- [Alfred](https://www.alfredapp.com/extras/theme/PQVZpeg4Zi/)
+- [Ulysses](https://styles.ulyssesapp.com/bundle/Monokai+Night/5bbcb619b3dafa6b4e6d6bd4)
+- [Textual](https://github.com/nikitavoloboev/my-mac-os/tree/master/textual#readme)
+
+Feel free to add to the list if you made a Monokai Night theme for some other app. 🌑
+
 ## License
 
 MIT © Fabio Spampinato
