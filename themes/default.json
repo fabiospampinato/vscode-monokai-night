@@ -121,7 +121,7 @@
     // "editorUnnecessaryCode.opacity": ".5", //FIXME: It doesn't work
     "editorWarning.border": "#00000000",
     "editorWarning.foreground": "#b1b011",
-    "editorWhitespace.foreground": "#464646",
+    "editorWhitespace.foreground": "#363636",
     "editorWidget.background": "#363636",
     "editorWidget.border": "#666666",
     "editorWidget.resizeBorder": "#666666",
