@@ -1,3 +1,7 @@
+### Version 1.5.0
+- Ensuring whitespace characters are visible when selected
+- Customized new colors
+
 ### Version 1.4.1
 - Readme: added a “Related Themes” section
 
