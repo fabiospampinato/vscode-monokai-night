@@ -1,3 +1,6 @@
+### Version 1.6.0
+- Customized some new colors
+
 ### Version 1.5.0
 - Ensuring whitespace characters are visible when selected
 - Customized new colors
