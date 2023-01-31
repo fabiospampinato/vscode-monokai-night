@@ -1,3 +1,6 @@
+### Version 1.6.2
+- Ensuring the active, but unfocused, tab is much more clearly discernible
+
 ### Version 1.6.1
 - Removed some third-party themes as no longer maintained
 - Deleted repo-level github funding.yml
