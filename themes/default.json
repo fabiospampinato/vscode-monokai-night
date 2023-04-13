@@ -517,6 +517,14 @@
       }
     },
     {
+      "name": "Invalid deprecated HTML element",
+      "scope": "invalid.deprecated.html",
+      "settings": {
+        "background": "#AE81FF",
+        "foreground": "#F9267299"
+      }
+    },
+    {
       "name": "JSON String",
       "scope": "meta.structure.dictionary.json string.quoted.double.json",
       "settings": {
