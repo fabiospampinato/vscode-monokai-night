@@ -1,3 +1,9 @@
+### Version 1.6.3
+- Lowercased readme file
+- Lowercased changelog file
+- Lowercased license file
+- Improved support for deprecated HTML tags
+
 ### Version 1.6.2
 - Ensuring the active, but unfocused, tab is much more clearly discernible
 
