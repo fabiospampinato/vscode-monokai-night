@@ -1,0 +1,8 @@
+resources/**/*.afdesign
+resources/**/*.afphoto
+resources/**/*.gif
+resources/**/*.mp4
+resources/logo.png
+
+src
+node_modules
