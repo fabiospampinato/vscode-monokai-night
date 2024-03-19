@@ -1,3 +1,6 @@
+### Version 1.7.1
+- Updated internal package, 80% smaller
+
 ### Version 1.7.0
 - Updated selection color for readibility
 
