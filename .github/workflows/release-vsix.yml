@@ -1,0 +1,38 @@
+name: Release VSIX
+
+on:
+  push:
+    tags:
+      - "v*.*.*"
+
+permissions:
+  contents: write
+
+jobs:
+  build-and-release:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: lts/*
+
+      - name: Install VSCE
+        run: npm install --no-save @vscode/vsce
+
+      - name: Package extension
+        shell: bash
+        run: |
+          TAG_VERSION="${GITHUB_REF_NAME#v}"
+          VSIX_NAME="monokai-night-v${TAG_VERSION}.vsix"
+          npx vsce package -o "${VSIX_NAME}"
+          echo "VSIX_NAME=${VSIX_NAME}" >> "${GITHUB_ENV}"
+
+      - name: Publish GitHub release asset
+        uses: softprops/action-gh-release@v2
+        with:
+          files: monokai-night-v*.vsix
