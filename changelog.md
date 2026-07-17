@@ -2,7 +2,7 @@
 - Updated internal package, 80% smaller
 
 ### Version 1.7.0
-- Updated selection color for readibility
+- Updated selection color for readability
 
 ### Version 1.6.4
 - Using saturated buttons
