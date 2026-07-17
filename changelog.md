@@ -1,3 +1,6 @@
+### Version 1.7.2
+- Added a GitHub Actions workflow to release the extension as a VSIX file
+
 ### Version 1.7.1
 - Updated internal package, 80% smaller
 

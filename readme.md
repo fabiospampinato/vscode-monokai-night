@@ -19,6 +19,12 @@ Follow the instructions in the [Marketplace](https://marketplace.visualstudio.co
 ext install fabiospampinato.vscode-monokai-night
 ```
 
+Alternatively, you can download the [VSIX file](https://github.com/fabiospampinato/vscode-monokai-night/releases) and install it manually:
+
+```shell
+code --install-extension monokai-night-v<VERSION>.vsix
+```
+
 ## Usage
 
 - Run the `Preferences: Color Theme` command.
