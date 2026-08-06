@@ -350,6 +350,15 @@
       }
     },
     {
+      "name": "Docstring",
+      "scope": [
+        "string.quoted.docstring"
+      ],
+      "settings": {
+        "foreground": "#75715E"
+      }
+    },
+    {
       "name": "Template Definition",
       "scope": [
         "punctuation.definition.template-expression",
